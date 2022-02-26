@@ -7,6 +7,7 @@ b=20
  
 sum=$(( $a + $b )) 
 minus=$(( $a - $b ))
+mul=$(( $a * $b ))
 echo "sum of $a and $b is ==>  $sum"
 echo "minus of $a and $b is ==>  $minus"
 
